@@ -1,0 +1,17 @@
+{
+  "name": "express-graphql",
+  "version": "1.0.0",
+  "description": "Simple express.js api that connects a graphql server to it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edna Morales",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^2.9.16",
+    "config": "^3.2.5",
+    "express": "^4.17.1"
+  }
+}
