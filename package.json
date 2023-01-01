@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "apollo-server-express": "^2.9.16",
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "express": "^4.17.1"
   }
 }
